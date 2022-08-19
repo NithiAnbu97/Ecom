@@ -1,0 +1,1 @@
+export const BASE_URL ="https://item-catalog-backend1.herokuapp.com/"
